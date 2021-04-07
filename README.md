@@ -62,7 +62,7 @@ After having build the first version following the steps above, it has been iter
 - Trello: for listing tasks and determining deadlines.
 - Repository "data-ft-par-labs/Projects/Week-1/your-project" : you may find my 2 main Python codes stored as a Jupyter Notebook format and there's also a folder containing the image of the cards used to print the game visually while executing the code. This document containing all the appropriate links completes the files in the repository.  
 
-- PS.: individual project.
+<em>PS.: individual project.</em>
 
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
