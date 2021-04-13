@@ -1,9 +1,15 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Blackjack Game by Leo
-*Leonardo Cavalcante Araújo*
+**Leonardo Cavalcante Araújo**
 
 *Data Analysis Full-Time FEB2021, Paris & February 8th 2021*
+
+<br>
+
+<div style="text-align:center"><a href="https://docs.google.com/presentation/d/1551GoYrD76L0y5D45VVs1hfH_hPP5mTUOZQyBmd21X4/edit?usp=sharing"><img src="Blackjack Cover.png" alt="Chicago crimes" height="300" align="center"/></a></div>
+
+<br>
 
 ## Content
 - [Project Description](#project-description)
@@ -67,9 +73,9 @@ After having build the first version following the steps above, it has been iter
 ## Links
 Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project.
 
-[Blackjack Game_vFINAL](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-1/your-project/Blackjack%20Game_vFINAL.ipynb)  
-[Blackjack Game_vTKINTER](https://github.com/leo-cavalcante/data-ft-par-labs/blob/main/Projects/Week-1/your-project/Blackjack%20Game_vTKINTER.ipynb)  
-[GitHub Repository](https://github.com/leo-cavalcante/data-ft-par-labs/tree/main/Projects/Week-1/your-project)  
-[Google Slides](https://docs.google.com/presentation/d/1551GoYrD76L0y5D45VVs1hfH_hPP5mTUOZQyBmd21X4/edit?usp=sharing)  
+[Blackjack Game_vFINAL](https://github.com/leo-cavalcante/blackjack-game/blob/main/Blackjack%20Game_vFINAL.ipynb)  
+[Blackjack Game_vTKINTER](https://github.com/leo-cavalcante/blackjack-game/blob/main/Blackjack%20Game_vTKINTER.ipynb)  
+[GitHub Repository: Blackjack](https://github.com/leo-cavalcante/blackjack-game/)  
+[Google Slides - Blackjack Presentation](https://docs.google.com/presentation/d/1551GoYrD76L0y5D45VVs1hfH_hPP5mTUOZQyBmd21X4/edit?usp=sharing)  
 [Trello](https://trello.com/invite/b/w4QneQYo/5ace74351ce209a6104be71573fe1b96/blackjack)   
 [BlackJack Rules](https://www.beatblackjack.org/rules/#:~:text=The%20values%20of%20the%20cards,is%20denoted%20as%207%2F17.)
